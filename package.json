@@ -1,0 +1,20 @@
+{
+    "name": "@locomote.sh/utils",
+    "version": "1.0.0",
+    "description": "Utility and support functions.",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/locomote-sh/utils.git"
+    },
+    "keywords": [],
+    "author": "Julian Goacher",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/locomote-sh/utils/issues"
+    },
+    "homepage": "https://github.com/locomote-sh/utils#readme"
+}
