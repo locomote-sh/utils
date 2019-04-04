@@ -1,7 +1,7 @@
 {
     "name": "@locomote.sh/utils",
     "version": "1.0.0",
-    "description": "Utility and support functions.",
+    "description": "Utility and support functions for Locomote.sh modules.",
     "main": "lib/index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
